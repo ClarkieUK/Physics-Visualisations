@@ -76,7 +76,7 @@ It is designed to just gain light intuiton on initially abstract ideas.
 
 
 ## Project Structure
-
+```
 app/
 │
 ├── app_main.py             # Overall entry
@@ -93,7 +93,7 @@ app/
 ├── button.py               # Local UI button helper
 └── standing_wave_functions.py
 
-
+```
 ---
 
 ## Dependencies
