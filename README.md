@@ -42,8 +42,7 @@ It is designed to just gain light intuiton on initially abstract ideas.
 - Real-time rotating-vector (epicycle) representation  
 - Adjustable number of terms  
 - Sine-only / cosine-only modes  
-- Modular coefficient and frequency generation in `testing.py`  
-- Smooth animation using Pygame’s rendering loop  
+- Modular coefficient and frequency generation
 
 ---
 
