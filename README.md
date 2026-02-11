@@ -86,11 +86,11 @@ app/
 │ └── line.py               # Epicycle drawing and series reconstruction
 │ 
 └── StandingWaves/
-├── main.py                 # Standing-wave visualisation
-├── axes.py                 # Grid rendering
-├── curve.py                # Wave plotting logic
-├── button.py               # Local UI button helper
-└── standing_wave_functions.py
+  ├── main.py                 # Standing-wave entry
+  ├── axes.py                 # Grid rendering
+  ├── curve.py                # Wave plotting logic
+  ├── button.py               # Local UI button helper
+  └── standing_wave_functions.py
 
 ```
 ---
@@ -101,4 +101,4 @@ app/
 - **pygame**  
 - **numpy**  
 
-(Standard libraries used: `os`, `math`, `time`, etc.)
+(Standard libraries used: `os`, `math`, `time`, ...)
