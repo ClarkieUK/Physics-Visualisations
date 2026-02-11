@@ -9,7 +9,6 @@
   - [Features](#features)
     - [Fourier Series Visualisation](#fourier-series-visualisation)
     - [Standing Waves](#standing-waves)
-  - [App Framework](#app-framework)
   - [Controls](#controls)
   - [Project Structure](#project-structure)
   - [Dependencies](#dependencies)
@@ -53,13 +52,6 @@ It is designed to just gain light intuiton on initially abstract ideas.
   - Nodes  
   - Antinodes  
   - Harmonic modes  
-
----
-
-## App Framework
-- Central main menu with submenu navigation  
-- Simple architecture for adding additional visualisations  
-- All simulations run inside the same top-level app structure  
 
 ---
 
